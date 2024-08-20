@@ -1,0 +1,2 @@
+--listen-on=unix:/tmp/kitty
+--override env=PATH="/Users/h62756/.local/bin:/Users/h62756/.cargo/bin:/opt/homebrew/bin:/Applications/kitty.app/Contents/MacOS:/usr/bin:/bin:/usr/sbin:/sbin"
